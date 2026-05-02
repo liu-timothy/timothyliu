@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Projects
-permalink: /timothyliu/projects/
+permalink: /projects/
 ---
 
 # My Projects
 
 ## This Website
 
-My personal website
+My personal portfolio and journal site, built with Jekyll and hosted on GitHub Pages.
 
 **Technologies**: Jekyll, Markdown, HTML/CSS, GitHub Pages
 

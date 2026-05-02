@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} | {% endif %}Timothy Liu</title>
-    <link rel="stylesheet" href="/timothyliu/assets/css/style.css">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
     <nav>
-        <a href="/timothyliu/">Home</a>
-        <a href="/timothyliu/about/">About</a>
-        <a href="/timothyliu/projects/">Projects</a>
-        <a href="/timothyliu/journal/">Journal</a>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+        <a href="{{ '/journal/' | relative_url }}">Journal</a>
     </nav>
     
     <main>

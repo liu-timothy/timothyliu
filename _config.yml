@@ -1,13 +1,22 @@
 # Site settings
 title: Timothy Liu
 description: Personal website and journal
-baseurl: "/timothyliu"
+
+# IMPORTANT: This must match your GitHub repository name
+baseurl: "/timothyliu"  # Your repo name
 url: "https://liu-timothy.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
 
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Defaults
 defaults:
   - scope:
       path: ""

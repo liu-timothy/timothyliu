@@ -1,21 +1,23 @@
 ---
 layout: default
 title: About Me
-permalink: /timothyliu/about/
+permalink: /about/
 ---
 
 # About Me
 
-Hello, I'm Timothy Liu.
+Hello! I'm Timothy Liu.
 
 ## Background
 
-I am a PhD student studying molecular biology.
+I love building things and sharing what I learn.
 
 ## What I'm Into
 
-- Genomics
+- Web development
+- Writing and reflecting
+- Building useful projects
 
 ## Contact
 
-wip
+Find me on GitHub: [github.com/liu-timothy](https://github.com/liu-timothy)

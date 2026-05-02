@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Journal
-permalink: /timothyliu/journal/
+permalink: /journal/
 ---
 
 # My Journal
@@ -17,5 +17,5 @@ permalink: /timothyliu/journal/
 {% endfor %}
 
 {% if site.posts.size == 0 %}
-*No journal entries yet. Check back soon*
+*No journal entries yet. Check back soon for my first post!*
 {% endif %}
