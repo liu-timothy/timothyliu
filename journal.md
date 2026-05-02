@@ -17,5 +17,5 @@ permalink: /journal/
 {% endfor %}
 
 {% if site.posts.size == 0 %}
-*No journal entries yet. Check back soon for my first post!*
+*No journal entries yet. wip writing and uploading my thoughts*
 {% endif %}

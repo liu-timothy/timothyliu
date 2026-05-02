@@ -10,14 +10,12 @@ Hello! I'm Timothy Liu.
 
 ## Background
 
-I love building things and sharing what I learn.
+I majored in Computational and Systems Biology at UCLA. I'm now pursuing a PhD in Molecular Biology at Princeton University. I enjoy doing both benchwork and bioinformatics work.
 
 ## What I'm Into
 
-- Web development
-- Writing and reflecting
-- Building useful projects
+- Genomics
 
 ## Contact
 
-Find me on GitHub: [github.com/liu-timothy](https://github.com/liu-timothy)
+timliu -at- princeton.edu
