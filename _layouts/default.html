@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Timothy Liu</title>
+    <link rel="stylesheet" href="/timothyliu/assets/css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="/timothyliu/">Home</a>
+        <a href="/timothyliu/about/">About</a>
+        <a href="/timothyliu/projects/">Projects</a>
+        <a href="/timothyliu/journal/">Journal</a>
+    </nav>
+    
+    <main>
+        {{ content }}
+    </main>
+    
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} Timothy Liu</p>
+    </footer>
+</body>
+</html>

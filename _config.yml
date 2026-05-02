@@ -1,0 +1,15 @@
+# Site settings
+title: Timothy Liu
+description: Personal website and journal
+baseurl: "/timothyliu"
+url: "https://liu-timothy.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
