@@ -2,6 +2,6 @@
 
 ### About Me
 
-Still a work in progress. This will be where my projects will go!
+Still a work in progress. This will be where my website will go
 
 ### Projects
